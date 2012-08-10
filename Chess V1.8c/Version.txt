@@ -1,0 +1,15 @@
+1.5b Added castling without checking for squares attacked in between
+
+June 07 2009, 1.6 Checking perfected, to do: checkmate and stalemate
+
+June 9 2009, 1.7 Checkmate done.
+
+June 9 2009, 1.7a found bugs, some fixed, others still need work, to do: stalemate
+
+June 10 2009, 1.7b, fixed castling problems
+
+June 12 2009 1.8, to do: internal doc, finished: everything
+
+June 12 2009 1.8a, finished: checkmate, stalemate, and everything else, to do: design changes doc
+
+June 14, 2009 1.8b, tidied everything up
