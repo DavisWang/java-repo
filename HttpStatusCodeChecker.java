@@ -1,3 +1,19 @@
+/**
+ * README 
+ *  dependancies: jsoup, java.net.*
+ *  designed to be run on a command line
+ * HTTP STATUS CODE CHECKER
+ * By Davis Wang
+ * USAGE: java -jar HttpStatusCodeChecker.jar [option] <url>
+
+ * EXAMPLE USAGE:
+ * java -jar HttpStatusCodeChecker.jar -v http://www.google.com
+ * java -jar HttpStatusCodeChecker.jar http://www.microsoft.com
+
+ * OPTIONS:
+ *	-v verbose, prints out a lot of stuff
+ **/
+
 import java.io.IOException;
 import java.io.PrintStream;
 import java.net.URL;
